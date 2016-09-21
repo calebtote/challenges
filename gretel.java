@@ -1,6 +1,6 @@
 ### Goal ###
 //The goal of this challenge was to come up with a game in 1,000 characters or less.
-//My game was a small dungeon crawler, called Hansel.
+//My game was a small dungeon crawler, called Gretel.
 
 ### Revision 0.1 ###
 // This part was killing my character count -- at this stage, was around 1160 characters with whitespace removed.
