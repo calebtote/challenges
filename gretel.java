@@ -1,5 +1,5 @@
 ### Goal ###
-//The goal of this challenge was to come up with a game in 1,000 characters or less.
+//The goal of this challenge was to come up with a game in Java, using 1,000 characters or fewer.
 //My game was a small dungeon crawler, called Gretel.
 
 ### Revision 0.1 ###
